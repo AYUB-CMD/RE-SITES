@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/RE-SITES/static/js/main.48c9c12c.chunk.js",
+    "main.js.map": "/RE-SITES/static/js/main.48c9c12c.chunk.js.map",
+    "runtime-main.js": "/RE-SITES/static/js/runtime-main.46e2cb56.js",
+    "runtime-main.js.map": "/RE-SITES/static/js/runtime-main.46e2cb56.js.map",
+    "static/js/2.47bf5fd5.chunk.js": "/RE-SITES/static/js/2.47bf5fd5.chunk.js",
+    "static/js/2.47bf5fd5.chunk.js.map": "/RE-SITES/static/js/2.47bf5fd5.chunk.js.map",
+    "index.html": "/RE-SITES/index.html",
+    "static/js/2.47bf5fd5.chunk.js.LICENSE.txt": "/RE-SITES/static/js/2.47bf5fd5.chunk.js.LICENSE.txt",
+    "static/media/house1.7602e043.jpg": "/RE-SITES/static/media/house1.7602e043.jpg",
+    "static/media/house2.b8266d2a.jpg": "/RE-SITES/static/media/house2.b8266d2a.jpg",
+    "static/media/house3.87e56bd0.jpg": "/RE-SITES/static/media/house3.87e56bd0.jpg",
+    "static/media/house4.d7b44bcc.jpg": "/RE-SITES/static/media/house4.d7b44bcc.jpg",
+    "static/media/interior1.29177b3d.jpg": "/RE-SITES/static/media/interior1.29177b3d.jpg",
+    "static/media/interior2.e450148d.jpg": "/RE-SITES/static/media/interior2.e450148d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46e2cb56.js",
+    "static/js/2.47bf5fd5.chunk.js",
+    "static/js/main.48c9c12c.chunk.js"
+  ]
+}
